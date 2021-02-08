@@ -1,3 +1,3 @@
 # sql-challenge
 
-s
+ss
