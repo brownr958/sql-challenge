@@ -38,4 +38,3 @@ Bonus Analysis (Jupyter Notebook): After the data was created and queried in SQL
 a further analysis of the data and created two plots based on the data within SQL. The two images that were created
 were then exported to the images folder.
 
-
